@@ -1,0 +1,9 @@
+name: CBO-autostabs
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy=2.4.6
+  - pandas=3.0.6
+  - statsmodels=0.15.0
+  - matplotlib=3.11.1
